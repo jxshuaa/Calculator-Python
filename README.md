@@ -1,2 +1,2 @@
 # Calculator-Python
-A calculator made with python. Simple and sleek
+A calculator made with only python and using inputs.
